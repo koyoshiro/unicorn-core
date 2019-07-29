@@ -1,7 +1,7 @@
 {
   "name": "unicorn-core",
-  "version": "0.0.1",
-  "description": "a pure dependence collection library",
+  "version": "1.0.0",
+  "description": "dependence collection library",
   "main": "./dest/index.js",
   "scripts": {
     "tsb": "tsc",
@@ -14,12 +14,12 @@
   },
   "devDependencies": {
     "husky": "^0.14.3",
+    "kyr-cypher": "^1.0.9",
     "tslint": "^5.10.0",
     "tslint-config-airbnb": "^5.8.0",
     "tslint-eslint-rules": "^5.3.1",
     "tslint-react": "^3.6.0",
-    "typescript": "^2.8.3",
-    "kyr-cypher": "^1.0.2"
+    "typescript": "^2.8.3"
   },
   "config": {
     "commitizen": {
