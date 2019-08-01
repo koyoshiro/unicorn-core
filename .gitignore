@@ -3,3 +3,5 @@
 node_modules/
 .DS_Store
 dest/
+.lintstagedrc.json
+package-lock.json
