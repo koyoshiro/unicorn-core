@@ -1,6 +1,6 @@
 {
     "name": "@vanir/unicorn",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "dependence collection library",
     "main": "./dest/index.js",
     "scripts": {
