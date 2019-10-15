@@ -1,5 +1,5 @@
 {
-    "name": "@vanir/unicorn",
+    "name": "@vanir/unicorn-core",
     "version": "1.0.1",
     "description": "dependence collection library",
     "main": "./dest/index.js",
