@@ -1,3 +1,13 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/koyoshiro/unicorn-core/compare/v1.0.3...v1.0.4) (2019-10-15)
+
+
+### Bug Fixes
+
+* add d.ts ([52969ce](https://github.com/koyoshiro/unicorn-core/commit/52969ce))
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/koyoshiro/unicorn-core/compare/v1.0.2...v1.0.3) (2019-10-15)
 
